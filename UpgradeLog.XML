@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="career">
+</Property><Property Name="Solution File" Value="H:\03-Families\Itani Family\مشروعات\Maher\careerCode\career\career.sln">
+</Property><Property Name="Date" Value="Friday, April 28, 2017">
+</Property><Property Name="Time" Value="22:40 PM">
+</Property></Properties><Event ErrorLevel="2" Project="career" Source="http://localhost/career/career.csproj" Description="Unable to open the Web site 'http://localhost/career/career.csproj'. IIS is not installed on this computer. To access local IIS Web sites, you must install all of the following Windows components:&#xA;&#xA;      Internet Information Services&#xA;      IIS 6 Metabase and IIS 6 Configuration Compatibility&#xA;      ASP.NET&#xA;&#xA;In addition, you must run Visual Studio in the context of an administrator account. By default, Windows runs applications in a limited-privilege user account even when you are logged on to the computer as an administrator. To run Visual Studio with administrative privileges, right-click the Visual Studio icon and then click 'Run as administrator'.&#xA;&#xA;For more information, press F1.">
+</Event><Event ErrorLevel="0" Project="" Source="career.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="career.sln" Description="Converted">
+</Event></UpgradeLog>

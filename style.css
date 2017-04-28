@@ -1,0 +1,32 @@
+a{text-decoration:none; color:50555E;}
+a:hover{color:BA2720;}
+BODY  {
+background-color: #ffffff;
+font-family : Verdana, Arial, Helvetica, sans-serif;
+}
+.header  {
+font-size: 9pt;
+font-family : Verdana, Arial, Helvetica, sans-serif;
+}
+.ltitle {color: ffffff;}
+.data {
+font-size: 9pt;
+font-family : Verdana, Arial, Helvetica, sans-serif;
+color: 50555E;
+font-weight: bold;
+}
+.ndata {
+font-size: 9pt;
+font-family : Verdana, Arial, Helvetica, sans-serif;
+color: 50555E;
+}
+.footer{
+font:Verdana;font-size:8pt;
+border: 1px;
+font-size: 8pt;
+
+}
+.footer a{text-decoration:none; color:BA2720;}
+.footer a:hover{color:50555E;}
+.links a{text-decoration:none; color:FFFFFF;font-size:8pt;}
+.links a:hover{color:FFFFFF;font-size:8pt;}

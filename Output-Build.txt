@@ -1,0 +1,16 @@
+------ Build started: Project: career, Configuration: Debug .NET ------
+
+Preparing resources...
+Updating references...
+Performing main compilation...
+
+Build complete -- 0 errors, 0 warnings
+Building satellite assemblies...
+
+
+
+---------------------- Done ----------------------
+
+    Build: 1 succeeded, 0 failed, 0 skipped
+
+
